@@ -1,5 +1,5 @@
 <div id="top">
-<h1 align="center">HealthBooker 🧑‍⚕️</h1>
+<h1 align="center">DocBooker 🧑‍⚕️</h1>
 
 <div align="center">
   <br>
